@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a660a4a9-5892-4d5b-ac72-93e508cfc380" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1quarVWffjpSKJccbcQnd4JvfzZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a660a4a9-5892-4d5b-ac72-93e508cfc380" name="Default Changelist" comment="" />
+      <created>1617932127222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617932127222</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commit these files to my computer">
+      <created>1617933213326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617933213326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit these files to my computer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit these files to my computer" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1337" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617933353391">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1337" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617933353391" />
+    <state x="-912" y="151" key="CommitChangelistDialog2" timestamp="1617933211761">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-912" y="151" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617933211761" />
+    <state x="-1011" y="260" key="FileChooserDialogImpl" timestamp="1617933470230">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1011" y="260" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617933470230" />
+    <state x="-1211" y="261" key="IDE.errors.dialog" timestamp="1617933243933">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1211" y="261" key="IDE.errors.dialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617933243933" />
+    <state x="-1290" y="163" key="SettingsEditor" timestamp="1617933529322">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1290" y="163" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617933529322" />
+    <state x="-990" y="425" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1617932665168">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-990" y="425" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617932665168" />
+    <state x="-961" y="309" key="svn.repositoryBrowser" timestamp="1617933398501">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-961" y="309" key="svn.repositoryBrowser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1617933398501" />
+  </component>
+</project>
